@@ -44,12 +44,12 @@ The project focuses specifically on identity security, least privilege, authenti
 
 # Phase 1 — Identity Foundation
 
-- [ ] Review existing Stark Industries Entra users, groups, and policies before making changes
-- [ ] Create required IAM lab identities
-- [ ] Create the three IAM security groups
-- [ ] Assign initial group memberships based on job requirements
-- [ ] Validate initial user and group configuration
-- [ ] Capture purposeful evidence of the identity/access model
+- [x] Review existing Stark Industries Entra users, groups, and policies before making changes
+- [x] Create required IAM lab identities
+- [x] Create the three IAM security groups
+- [x] Assign initial group memberships based on job requirements
+- [x] Validate initial user and group configuration
+- [x] Capture purposeful evidence of the identity/access model
 
 ---
 
