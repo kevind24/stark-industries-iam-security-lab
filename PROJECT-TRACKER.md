@@ -78,14 +78,14 @@ The project focuses specifically on identity security, least privilege, authenti
 
 # Phase 4 — Joiner / Mover Security Scenario
 
-- [ ] Provision Happy Hogan as an Operations employee
-- [ ] Validate `SG-Operations` access
-- [ ] Simulate Happy moving to a security-related role
-- [ ] Grant required `SG-Security` access
-- [ ] Intentionally leave stale `SG-Operations` membership
-- [ ] Identify the excessive/stale authorization
-- [ ] Remove inappropriate access
-- [ ] Validate Happy's corrected least-privilege access
+- [x] Provision Happy Hogan as an Operations employee
+- [x] Validate `SG-Operations` access
+- [x] Simulate Happy moving to a security-related role
+- [x] Grant required `SG-Security` access
+- [x] Intentionally leave stale `SG-Operations` membership
+- [x] Identify the excessive/stale authorization
+- [x] Remove inappropriate access
+- [x] Validate Happy's corrected least-privilege access
 
 ---
 
