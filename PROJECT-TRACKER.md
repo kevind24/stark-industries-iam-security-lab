@@ -55,12 +55,12 @@ The project focuses specifically on identity security, least privilege, authenti
 
 # Phase 2 — Authentication Security
 
-- [ ] Review authentication methods available in the tenant
-- [ ] Configure/test MFA for the selected lab identity
-- [ ] Create one targeted Conditional Access policy
-- [ ] Test expected authentication behavior
-- [ ] Validate successful and blocked/challenged authentication behavior
-- [ ] Document the security purpose of the authentication controls
+- [x] Review authentication methods available in the tenant
+- [x] Configure/test MFA for the selected lab identity
+- [x] Create one targeted Conditional Access policy
+- [x] Test expected authentication behavior
+- [x] Validate successful and blocked/challenged authentication behavior
+- [x] Document the security purpose of the authentication controls
 
 ---
 
