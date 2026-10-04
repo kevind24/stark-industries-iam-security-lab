@@ -66,13 +66,13 @@ The project focuses specifically on identity security, least privilege, authenti
 
 # Phase 3 — Least Privilege and Privileged Access
 
-- [ ] Configure the dedicated IAM Administrator identity
-- [ ] Select one appropriate limited administrative role
-- [ ] Configure the role through Privileged Identity Management (PIM)
-- [ ] Activate the eligible role
-- [ ] Perform and validate one privileged administrative action
-- [ ] Validate removal/expiration of elevated privileges
-- [ ] Document permanent privilege vs. just-in-time privilege
+- [x] Configure the dedicated IAM Administrator identity
+- [x] Select one appropriate limited administrative role
+- [x] Configure the role through Privileged Identity Management (PIM)
+- [x] Activate the eligible role
+- [x] Perform and validate one privileged administrative action
+- [x] Validate removal/expiration of elevated privileges
+- [x] Document permanent privilege vs. just-in-time privilege
 
 ---
 
