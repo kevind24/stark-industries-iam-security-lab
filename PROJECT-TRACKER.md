@@ -91,12 +91,12 @@ The project focuses specifically on identity security, least privilege, authenti
 
 # Phase 5 — Identity Monitoring and Investigation
 
-- [ ] Generate controlled authentication activity
-- [ ] Review Microsoft Entra sign-in logs
-- [ ] Review Microsoft Entra audit logs
-- [ ] Review relevant Identity Protection information
-- [ ] Investigate one authentication or identity-related event
-- [ ] Document evidence, findings, and remediation where applicable
+- [x] Generate controlled authentication activity
+- [x] Review Microsoft Entra sign-in logs
+- [x] Review Microsoft Entra audit logs
+- [x] Review relevant Identity Protection information
+- [x] Investigate one authentication or identity-related event
+- [x] Document evidence, findings, and remediation where applicable
 
 ---
 
