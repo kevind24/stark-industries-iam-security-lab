@@ -102,12 +102,12 @@ The project focuses specifically on identity security, least privilege, authenti
 
 # Phase 6 — Leaver / Access Revocation
 
-- [ ] Simulate Happy Hogan leaving Stark Industries
-- [ ] Disable Happy's account
-- [ ] Remove authorization/group access
-- [ ] Revoke existing sessions where appropriate
-- [ ] Attempt authentication/access after termination
-- [ ] Validate that former access is no longer available
+- [x] Simulate Happy Hogan leaving Stark Industries
+- [x] Disable Happy's account
+- [x] Remove authorization/group access
+- [x] Revoke existing sessions where appropriate
+- [x] Attempt authentication/access after termination
+- [x] Validate that former access is no longer available
 - [ ] Document the complete Joiner → Mover → Leaver lifecycle
 
 ---
