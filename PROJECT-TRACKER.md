@@ -108,23 +108,23 @@ The project focuses specifically on identity security, least privilege, authenti
 - [x] Revoke existing sessions where appropriate
 - [x] Attempt authentication/access after termination
 - [x] Validate that former access is no longer available
-- [ ] Document the complete Joiner → Mover → Leaver lifecycle
+- [x] Document the complete Joiner → Mover → Leaver lifecycle
 
 ---
 
 # Phase 7 — Documentation and Portfolio Completion
 
-- [ ] Create final IAM architecture / identity-flow diagram
-- [ ] Organize purposeful screenshots
-- [ ] Add any small PowerShell scripts used during the project
-- [ ] Document IAM security scenarios and troubleshooting
-- [ ] Document validation results
-- [ ] Write lessons learned
-- [ ] Complete README
-- [ ] Create conservative resume bullets based only on completed work
-- [ ] Verify all technical claims against actual lab evidence
-- [ ] Perform final GitHub repository cleanup
-- [ ] Make repository public when ready for portfolio use
+- [x] Create final IAM architecture / identity-flow diagram
+- [x] Organize purposeful screenshots
+- [x] Add any small PowerShell scripts used during the project (N/A — no scripts used)
+- [x] Document IAM security scenarios and troubleshooting
+- [x] Document validation results
+- [x] Write lessons learned
+- [x] Complete README
+- [x] Create conservative resume bullets based only on completed work
+- [x] Verify all technical claims against actual lab evidence
+- [x] Perform final GitHub repository cleanup
+- [x] Make repository public when ready for portfolio use
 
 ---
 
