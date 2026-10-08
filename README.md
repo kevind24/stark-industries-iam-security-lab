@@ -27,6 +27,7 @@ All configuration and testing were performed through Microsoft Entra administrat
 ## Environment
 
 ### Microsoft Cloud
+
 - Microsoft Entra ID
 - Microsoft Entra ID P2
 - Microsoft Entra Conditional Access
@@ -34,15 +35,18 @@ All configuration and testing were performed through Microsoft Entra administrat
 - Microsoft Entra ID Protection
 
 ### Administration
+
 - Microsoft Entra admin center
 - Web browser
 
 ### Lab Identities
+
 - **Tony Stark** — Standard user used for authentication security testing
 - **Happy Hogan** — User used for Joiner → Mover → Leaver lifecycle testing
 - **Stark IAM Admin** — Dedicated privileged identity used for PIM testing
 
 ### Security Groups
+
 - `SG-Operations`
 - `SG-Security`
 - `SG-Executive`
@@ -51,7 +55,7 @@ All configuration and testing were performed through Microsoft Entra administrat
 
 The architecture diagram illustrates the Microsoft Entra identity environment, employee identity lifecycle, privileged access controls, and monitoring capabilities.
 
-![Security Groups](screenshots/01-entra-security-groups.png)
+![Stark Industries IAM Architecture](images/iam-architecture.png)
 
 The diagram is a conceptual representation of the lab. Conditional Access was configured in report-only mode and was not enforced.
 
