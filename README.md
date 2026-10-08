@@ -51,7 +51,7 @@ All configuration and testing were performed through Microsoft Entra administrat
 
 The architecture diagram illustrates the Microsoft Entra identity environment, employee identity lifecycle, privileged access controls, and monitoring capabilities.
 
-![Stark Industries IAM Architecture](images/iam-architecture.png)
+![Security Groups](screenshots/01-entra-security-groups.png)
 
 The diagram is a conceptual representation of the lab. Conditional Access was configured in report-only mode and was not enforced.
 
